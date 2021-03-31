@@ -24,16 +24,19 @@
 3. เตรียม WEbserver ไว้ 1 ตัว รันคำสั่ง WiFi.softAP แล้วกำหนด ssid กับ password ลงไป
 ![S__4948027](https://user-images.githubusercontent.com/80882549/113194608-84bcb080-928b-11eb-8f58-c6a8fe1ddb95.jpg)
 
-4.  บอกว่า IP ที่ตั้งไว้เป็นเท่าไร
+4. บอกว่า IP ที่ตั้งไว้เป็นเท่าไร
 ![S__4948028](https://user-images.githubusercontent.com/80882549/113194656-8dad8200-928b-11eb-83de-426c009d00e1.jpg)
 
-5.  อัปโหลดโปรแกรมเข้าไปในไมโครคอนโทรเลอร์
+5. เขียนโค้ดต่อยอดเพิ่มเติมขึ้นจากโค้ดที่ได้มา
+![0D58CEE0-2F01-40A0-89F1-A9D1F1D0C6CC](https://user-images.githubusercontent.com/80882549/113198104-b33c8a80-928f-11eb-8918-6ca414365329.jpg)
+
+6. อัปโหลดโปรแกรมเข้าไปในไมโครคอนโทรเลอร์
 ![S__4948029](https://user-images.githubusercontent.com/80882549/113194688-97cf8080-928b-11eb-8efb-6a7e26a2ea68.jpg)
 
-6.  กดปุ่ม upload และ reset
+7. กดปุ่ม upload และ reset
 ![S__4948030](https://user-images.githubusercontent.com/80882549/113194735-a158e880-928b-11eb-9373-a184e377739a.jpg)
 
-7.  รันคำสั่ง pio device monitor
+8. รันคำสั่ง pio device monitor
 ![S__4948031](https://user-images.githubusercontent.com/80882549/113194760-a9188d00-928b-11eb-9792-249dc3b443bd.jpg)
 
 ## การบันทึกผลการทดลอง
